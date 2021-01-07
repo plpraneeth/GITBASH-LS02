@@ -1,2 +1,3 @@
 THIS IS THE FILE IN THE LOCAL MASTER 
+2nd line added in the local B2
 
